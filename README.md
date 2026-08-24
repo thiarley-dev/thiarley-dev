@@ -20,10 +20,10 @@
 
 ---
 
-## 📊 Estatísticas
+<!--## 📊 Estatísticas
 
 ![Github Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=ThDev-only&a=a&show_icons=true&include_all_commits=true&count_p&theme=tokyonight)    
----
+----->
 
 ## 🏆 Troféus
 
