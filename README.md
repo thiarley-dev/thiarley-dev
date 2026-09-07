@@ -30,7 +30,7 @@
 <p style="text-align: center;">  
   <a href="https://github.com/ryo-ma/github-profile-trophy">  
     <img  
-      src="https://github-trophies.vercel.app/?username=ThDev-only&a=a&theme=tokyonight&column=4&row=1&no_bg=true"  
+      src="https://github-trophies.vercel.app/?username=thiarley-dev&a=a&theme=tokyonight&column=4&row=1&no_bg=true"  
       alt="ThDev-only"  
     />  
   </a>  
