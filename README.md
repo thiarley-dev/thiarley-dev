@@ -51,13 +51,3 @@ Também trabalho com **PHP e Lua** em projetos específicos.
     />
   </a>
 </p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=thiarley-dev&theme=nord"
-  />
-</p>
