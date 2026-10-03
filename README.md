@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Thiarley Rocha
+<!--# 👋 Olá, eu sou Thiarley Rocha
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Ourinhos**.
 
@@ -22,7 +22,7 @@ Também trabalho com **PHP e Lua** em projetos específicos.
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,mysql,linux,vscode,idea" />
-</p>
+</p>-->
 
 ---
 
